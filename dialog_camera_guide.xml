@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="20dp"
+    android:background="@android:color/white">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Panduan Penggunaan"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:layout_gravity="center"
+        android:paddingBottom="10dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="1. Tekan tombol 'Ambil Gambar' untuk mengambil gambar kualitas udara di sekitar Anda menggunakan kamera."
+        android:textSize="16sp"
+        android:paddingBottom="10dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="- Fokuskan posisi kamera Anda dalam posisi horizontal."
+        android:textSize="16sp"
+        android:paddingLeft="20dp"
+        android:paddingBottom="10dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="- Ambil gambar langit atau kondisi udara di sekitar Anda."
+        android:textSize="16sp"
+        android:paddingLeft="20dp"
+        android:paddingBottom="10dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="- Hasil akan lebih optimal jika Anda mengambil dari posisi di atas gedung atau posisi yang tinggi."
+        android:textSize="16sp"
+        android:paddingLeft="20dp"
+        android:paddingBottom="10dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="- Hasil tidak akurat jika Anda mengambil gambar objek selain kondisi udara ataupun langit."
+        android:textSize="16sp"
+        android:paddingLeft="20dp"
+        android:paddingBottom="20dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="2. Tekan tombol 'Galeri' untuk memilih gambar dari galeri."
+        android:textSize="16sp"
+        android:paddingBottom="10dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="3. Setelah memilih atau mengambil gambar, hasil klasifikasi akan ditampilkan."
+        android:textSize="16sp"
+        android:paddingBottom="10dp" />
+
+</LinearLayout>
