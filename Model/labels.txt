@@ -1,0 +1,6 @@
+0 Baik
+1 Sedang
+2 Tidak Sehat untuk Kelompok Sensitif
+3 Tidak Sehat
+4 Sangat Tidak Sehat
+5 Parah
